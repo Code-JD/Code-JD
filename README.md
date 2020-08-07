@@ -1,11 +1,14 @@
 ### Hello, I'm Jonathan Herring
 
 ## I'm a Husband, Father, and Developer!
-- 🔭 I’m currently working on content uploading system for [Blue Helm Space News Brief][website]!
-- ⚡ I’m currently learning all thing AWS
-- 👯 I’m looking to collaborate with other creators and developers
+- 🔭 I’m currently working on a content uploading system for [Blue Helm Space News Brief][website]!📡
+- ⚡ I’m currently learning all thing AWS!☁️
+- 👯 I’m looking for new opportunities to create and build awesome projects with great people 🚧🤝
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- 🌱 Fun fact: I am an avid Gamer and Gardener
+- 🌱 Fun fact: I am an avid Gamer, Cook, and Gardener!🎮🌾
+
+
+
 
 ### Connect with me:
 
