@@ -1,7 +1,7 @@
 ### Hello, I'm Jonathan Herring
 
 ## I'm a Husband, Father, and Developer!
-- ⚡ I’m currently learning all thing Python and Backend development!⚡
+- ⚡ I’m currently learning all things Python and Backend development!⚡
 - 👯 I’m looking for new opportunities to create and build awesome projects with great people 🚧🤝
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - 🌱 Fun fact: I am an avid Gamer, Cook, and Gardener!🎮🌾
