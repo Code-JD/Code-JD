@@ -1,48 +1,86 @@
-### Hello, I'm Jonathan Herring
+## 🔐 Jonathan Herring
 
-## I'm a Husband, Father, and Developer!
-- ⚡ I’m currently learning all things Python and Backend development!⚡
-- 👯 I’m looking for new opportunities to create and build awesome projects with great people 🚧🤝
-- 🥅 2026 Goals: Contribute more to Open Source projects
-- 🌱 Fun fact: I am an avid Gamer, Cook, and Gardener!🎮🌾
+### Cloud & Security Engineer (In Progress) | HomeLab Builder | Automation-Focused
 
+I’m a **security-minded technologist** transitioning into **cloud security and infrastructure engineering**.  
+My focus is on **secure system design**, **cloud architecture**, and **operational security**, backed by hands-on labs and real-world projects.
 
-
-
-### Connect with me:
-
-[<img align="left" alt="Code-JD | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Code-JD | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Code-JD | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Code-JD | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-
-<br />
-
-### Languages and Tools:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
-<br />
-<br />
+I’m intentionally building toward roles like **SOC Analyst**, **Cloud Security Analyst**, and **Cloud Security Engineer (Junior)**.
 
 ---
 
-<img align="left" alt="Code-JD's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Code-JD&show_icons=true&hide_border=true" />
+## 🧭 Current Focus
+- 🛡️ Studying **Security+** with a cloud-first security mindset  
+- ☁️ Building and securing infrastructure in **AWS** (VPC, IAM, logging, monitoring)  
+- 📊 Learning **SIEM & log analysis** (Splunk, CloudTrail-style workflows)  
+- 🧪 Expanding my **HomeLab** for security testing, networking, and automation  
+- 📚 Documenting projects clearly and reproducibly  
 
+---
 
-[website]: https://spacenews.netlify.app/
-[twitter]: https://twitter.com/ShibbyShiva
-[instagram]: https://instagram.com/dekerrafields
-[linkedin]: https://linkedin.com/in/jonathan-herring-code
+## 🧠 Technical Interests
+- Cloud security & IAM  
+- Secure network architecture  
+- Detection engineering fundamentals  
+- Infrastructure as Code (early-stage)  
+- Linux systems & automation  
+- Incident response workflows  
+
+---
+
+## 🛠️ Tools & Technologies
+
+### Cloud & Infrastructure
+- AWS (EC2, S3, IAM, VPC – in progress)
+- Linux (Ubuntu)
+- Networking fundamentals (routing, firewalling, segmentation)
+
+### Security
+- SIEM concepts (Splunk – in progress)
+- Logging & monitoring
+- IAM / least-privilege design
+- Threat & incident fundamentals
+
+### Development & Automation
+- Python (automation-focused learning)
+- Bash
+- Git / GitHub
+- SQL fundamentals
+
+---
+
+## 🧪 Projects & Labs
+I prioritize **hands-on learning** over theory. Repositories here reflect:
+- Cloud security labs
+- Network segmentation & firewall testing
+- Log ingestion and analysis
+- Automation experiments
+- Certification-aligned study notes
+
+Each repository includes documentation explaining **why** decisions were made, not just *what* was built.
+
+---
+
+## 🎯 2025–2026 Goals
+- Earn **Security+**, **AWS Solutions Architect – Associate**, and **Splunk Core**
+- Transition into a **security or cloud-security role**
+- Contribute to open-source projects related to cloud or security tooling
+- Continue building and documenting real systems
+
+---
+
+## 👋 About Me
+- Husband & father  
+- Lifelong learner  
+- Gamer, home cook, and gardener  
+- Strong believer in practical, testable knowledge over buzzwords  
+
+---
+
+## 🔗 Connect With Me
+- **LinkedIn:** https://linkedin.com/in/jonathan-herring-code
+
+---
+
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Code-JD&show_icons=true&hide_border=true)
