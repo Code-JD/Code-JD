@@ -44,6 +44,5 @@
 
 [website]: https://spacenews.netlify.app/
 [twitter]: https://twitter.com/ShibbyShiva
-[youtube]: https://youtube.com/UCulEQdDQKPOb_EwAFGYBSrw
 [instagram]: https://instagram.com/dekerrafields
 [linkedin]: https://linkedin.com/in/jonathan-herring-code
